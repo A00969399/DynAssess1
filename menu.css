@@ -10,14 +10,16 @@
     width: 100%;
 }
 
-#open, #close {
-    position: absolute;
+
+#open {
+     position: absolute;
     width: 50px;
     right: -50px;
-}
-#open {
     top: 0px;
 }
 #close {
+     position: absolute;
+    width: 50px;
+    right: -50px;
     bottom: 0px;
 }
